@@ -47,7 +47,7 @@ Pac-Man is an HTML5 remake of the classic Pac-Man arcade game. It features multi
 
 ## Sample
 
-![Pac-Man Platformer Screenshot](./public/sample.png)
+![Pac-Man Platformer Screenshot](pacmanSS.png)
 
 ## Technologies
 - HTML5
